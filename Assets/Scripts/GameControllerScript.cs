@@ -63,6 +63,6 @@ void UpdateScoreText(){
 
 public void GameOver(){
     isGameOver = true;
-    replayText.text = "Hit SAPACE to replay!";
+    replayText.text = "SAPACEキーを押すと、replayできます";
 }
 }

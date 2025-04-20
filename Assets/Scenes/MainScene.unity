@@ -588,7 +588,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 80, y: -27.7}
+  m_AnchoredPosition: {x: 96.8, y: -27.4}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1175603430
@@ -624,7 +624,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\uFF08Score: 0000\uFF09"
+  m_Text: 'Score: 0000'
 --- !u!222 &1175603431
 CanvasRenderer:
   m_ObjectHideFlags: 0
